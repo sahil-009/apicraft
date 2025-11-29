@@ -1,7 +1,7 @@
 {
     "name": "my-api",
     "version": "1.0.0",
-    "description": "Backend API built with APIcraft - Base template",
+    "description": "Backend API built with Backly - Base template",
     "main": "server.js",
     "scripts": {
         "dev": "nodemon server.js",

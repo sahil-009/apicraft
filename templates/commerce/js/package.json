@@ -1,7 +1,7 @@
 {
     "name": "my-api",
     "version": "1.0.0",
-    "description": "E-Commerce backend built with APIcraft - Commerce template",
+    "description": "E-Commerce backend built with Backly - Commerce template",
     "main": "server.js",
     "scripts": {
         "dev": "nodemon server.js",

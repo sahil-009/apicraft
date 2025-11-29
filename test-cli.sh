@@ -1,6 +1,6 @@
 #!/bin/bash
 
-echo "🧪 Testing APIcraft CLI..."
+echo "🧪 Testing Backly CLI..."
 echo ""
 
 # Test 1: Generate a core template

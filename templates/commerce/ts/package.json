@@ -1,7 +1,7 @@
 {
     "name": "commerce-api",
     "version": "1.0.0",
-    "description": "E-Commerce API built with APIcraft",
+    "description": "E-Commerce API built with Backly",
     "main": "dist/server.js",
     "scripts": {
         "dev": "ts-node src/server.ts",

@@ -1,10 +1,10 @@
 {
-  "name": "apicraft",
-  "version": "1.0.0",
+  "name": "backly",
+  "version": "1.0.1",
   "description": "Interactive backend starter generator",
   "main": "index.js",
   "bin": {
-    "apicraft": "./index.js"
+    "backly": "./index.js"
   },
   "scripts": {
     "test": "jest"
@@ -34,9 +34,9 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/sahil-009/apicraft"
+    "url": "https://github.com/sahil-009/backly"
   },
-  "funding":{
+  "funding": {
     "url": "https://buymeacoffee.com/sahilmund"
   },
   "devDependencies": {

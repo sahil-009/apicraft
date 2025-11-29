@@ -1,7 +1,7 @@
 {
     "name": "my-api",
     "version": "1.0.0",
-    "description": "Backend API built with APIcraft - Core template (TypeScript)",
+    "description": "Backend API built with Backly - Core template (TypeScript)",
     "main": "dist/server.js",
     "scripts": {
         "dev": "ts-node src/server.ts",

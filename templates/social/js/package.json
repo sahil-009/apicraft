@@ -1,7 +1,7 @@
 {
     "name": "my-api",
     "version": "1.0.0",
-    "description": "Social media backend built with APIcraft - Social template",
+    "description": "Social media backend built with Backly - Social template",
     "main": "server.js",
     "scripts": {
         "dev": "nodemon server.js",

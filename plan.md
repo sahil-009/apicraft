@@ -1,4 +1,4 @@
-PROJECT BLUEPRINT — “Your CLI” (Example: apicraft)
+PROJECT BLUEPRINT — “Your CLI” (Example: backly)
 
 A modern, interactive backend starter generator.
 
@@ -6,7 +6,7 @@ A modern, interactive backend starter generator.
 
 Users only run:
 
-npx apicraft
+npx backly
 
 
 Then your CLI handles everything using an interactive flow:
@@ -49,7 +49,7 @@ Your CLI does not enforce heavy architecture — only helpful boilerplates.
 
 ⚡ 3. User Experience (Final Interaction Flow)
 Step 1: User runs one command
-npx apicraft
+npx backly
 
 Step 2: CLI asks for language
 ? Choose language:
@@ -162,7 +162,7 @@ server.(js/ts)
 app.(js/ts)
 
 ⚙️ 6. CLI Architecture
-apicraft/
+backly/
   ├── index.js           # CLI entry (interactive)
   ├── utils/
   │     ├── copy.js      # copies template files
@@ -300,7 +300,7 @@ npm publish
 
 Then anyone can run:
 
-npx apicraft
+npx backly
 
 
 No other platform needed.

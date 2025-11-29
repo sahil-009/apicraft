@@ -1,4 +1,4 @@
-# APIcraft 🚀
+## Backly 🚀
 
 A modern, interactive backend starter generator for Node.js applications.
 
@@ -13,7 +13,7 @@ A modern, interactive backend starter generator for Node.js applications.
 ## Quick Start
 
 ```bash
-npx apicraft
+npx backly
 ```
 
 That's it! The CLI will guide you through:
@@ -75,22 +75,22 @@ For advanced users, skip prompts with flags:
 
 ```bash
 # Use TypeScript
-npx apicraft --ts
+npx backly --ts
 
 # Use JavaScript
-npx apicraft --js
+npx backly --js
 
 # Specify template
-npx apicraft --template base
+npx backly --template base
 
 # Set project name
-npx apicraft --name my-awesome-api
+npx backly --name my-awesome-api
 
 # Skip dependency installation
-npx apicraft --no-install
+npx backly --no-install
 
 # Combine flags
-npx apicraft --ts --template prime --name my-api
+npx backly --ts --template prime --name my-api
 ```
 
 ## After Generation
@@ -112,4 +112,4 @@ MIT
 ## Author
 
 Sahil Mund
-# apicraft
+# backly
