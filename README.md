@@ -1,19 +1,28 @@
 ## Backly 🚀
 
-A modern, interactive backend starter generator for Node.js applications.
+Interactive cli backend starter for Node.js applications.
+
+## what is backly?
+
+Backly is a cli tool that helps you to create a backend project, file structure and required dependencies with a simple command depending on your template.
 
 ## Features
 
-✨ **Interactive CLI** - Simple, guided project setup  
 🎯 **6 Professional Templates** - From minimal to advanced architectures  
 📦 **JavaScript & TypeScript** - Full support for both languages  
 ⚡ **Zero Configuration** - Works out of the box  
 🛠️ **Flexible** - Start simple, scale as needed
 
-## Quick Start
-
+## Quick start
 ```bash
-npx backly
+    npx backly
+```
+
+## For global users
+```bash
+npm i -g backly
+## initialize your project
+backly init
 ```
 
 That's it! The CLI will guide you through:
