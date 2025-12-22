@@ -1,6 +1,6 @@
 {
   "name": "backly",
-  "version": "1.2.1",
+  "version": "1.3.0",
   "description": "Interactive cli backend starter generator for nodejs aplications",
   "main": "index.js",
   "bin": {
